@@ -10,6 +10,7 @@ namespace HRMS_Class1
     {
         int a;
         int b;
+        int c;
         
 
     }
