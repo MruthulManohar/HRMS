@@ -1,4 +1,3 @@
-
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +10,9 @@ namespace HRMS_Class1
     {
         int a;
         int b;
+        int c;
         
 
     }
+
 }
